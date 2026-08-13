@@ -15,9 +15,13 @@ body{
  }
 
 button{
-    background-color: rgb(66, 99, 100);
+    background-color: rgb(191, 215, 216);
     color: white;
     padding: 10px;
     border-radius: 15px;
     margin: 10px;
+}
+
+button:hover{
+    background-color: aqua;
 }
