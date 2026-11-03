@@ -49,3 +49,13 @@ productos.pop()
 console.log(utiles[utiles.length -1]);
  console.log(utiles.length);
  
+// ejercicio 3
+
+let productos = [
+    "Teclado",
+    "Mouse",
+    "Monitor",
+    "Auriculares",
+    "Webcam",
+    "Parlantes"
+    ];
