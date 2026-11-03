@@ -23,3 +23,29 @@ utiles.shift()
 console.log(utiles.length);
 console.log(utiles);
 
+// Ejercicio 2
+
+let productos = ["Leche", "Pan", "Arroz", "Fideos", "Aceite"];
+
+console.log(productos)
+console.log(productos.length)
+
+productos.push("azucar")
+
+productos.push("yerba")
+
+productos.push("cafe")
+
+console.log(productos)
+
+productos.unshift("sal")
+
+productos.unshift("galletitas")
+
+console.log(productos)
+console.log(productos.length)
+
+productos.pop()
+console.log(utiles[utiles.length -1]);
+ console.log(utiles.length);
+ 
